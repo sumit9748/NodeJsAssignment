@@ -24,3 +24,7 @@ export const addUserPreference = (bookType, userId) => {
         console.log(err);
     }
 }
+
+export const getAllUser = () => {
+    return readData();
+}
