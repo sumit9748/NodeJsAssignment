@@ -1,0 +1,62 @@
+[
+    {
+        "bookId": 101,
+        "title": "The Hounds of bak",
+        "price": 256,
+        "type": "Horror"
+    },
+    {
+        "bookId": 102,
+        "title": "The Mahabharat",
+        "price": 12256,
+        "type": "History"
+    },
+    {
+        "bookId": 103,
+        "title": "Nodejs Tutorial",
+        "price": 10256,
+        "type": "Education"
+    },
+    {
+        "bookId": 101,
+        "title": "JavaScript Basics",
+        "price": 599,
+        "type": "Education"
+    },
+    {
+        "bookId": 102,
+        "title": "Advanced Python",
+        "price": 899,
+        "type": "Education"
+    },
+    {
+        "bookId": 103,
+        "title": "Nodejs Tutorial",
+        "price": 10256,
+        "type": "Education"
+    },
+    {
+        "bookId": 104,
+        "title": "Cooking for Beginners",
+        "price": 499,
+        "type": "Lifestyle"
+    },
+    {
+        "bookId": 105,
+        "title": "Mastering Yoga",
+        "price": 799,
+        "type": "Health"
+    },
+    {
+        "bookId": 106,
+        "title": "Digital Marketing 101",
+        "price": 1200,
+        "type": "Business"
+    },
+    {
+        "bookId": 107,
+        "title": "The Art of Photography",
+        "price": 1500,
+        "type": "Art"
+    }
+]

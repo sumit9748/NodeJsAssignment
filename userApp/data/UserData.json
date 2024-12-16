@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "sumit",
+        "city": "howrah",
+        "preferences": []
+    },
+    {
+        "id": 2,
+        "name": "soumita",
+        "city": "howrah",
+        "preferences": []
+    },
+    {
+        "id": 3,
+        "name": "bag",
+        "city": "howrah",
+        "preferences": []
+    }
+]
